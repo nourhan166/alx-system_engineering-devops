@@ -1,0 +1,2 @@
+#!/bin/bash
+grep '8[:alpha:]' /etc/ssh/sshd_config
